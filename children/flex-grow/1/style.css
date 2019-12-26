@@ -1,0 +1,11 @@
+body {
+	background-color: #000000
+}
+
+.demo {
+	display: flex;
+}
+
+img {
+	flex-grow: 1;
+}

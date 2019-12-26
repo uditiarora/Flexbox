@@ -1,0 +1,17 @@
+body {
+	background-color: #000000
+}
+
+.demo {
+	display: flex;
+}
+
+.img1 {
+	flex-basis:100%;
+	flex-shrink: 2;
+}
+
+.img2 {
+	flex-basis:100%;
+}
+

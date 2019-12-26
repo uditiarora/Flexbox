@@ -1,0 +1,27 @@
+body {
+	background-color: #000000
+}
+
+.demo {
+	display: flex;
+}
+
+.img1{
+	flex-grow: 1;
+}
+
+.img2{
+	flex-grow: 2;
+}
+
+.img3{
+	flex-grow: 3;
+}
+
+.img4{
+	flex-grow: 4;
+}
+
+.img5{
+	flex-grow: 5;
+}

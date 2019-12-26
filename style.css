@@ -1,0 +1,33 @@
+iframe {
+  height: 200px;
+  width: 200px;
+  resize: both;
+  overflow: auto;
+  border : 5px solid #64ffda;
+  margin: 10px;
+}
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #172a45;
+	color : #ccd6f6;
+}
+
+a {
+	color: #ccd6f6;
+	text-decoration: none;
+}
+
+a:hover {
+	color : #a8b2d1;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: fantasy;
+	text-align: center;
+	color : #e6f1ff;
+	margin: 20px;
+}
